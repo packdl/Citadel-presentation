@@ -11,4 +11,4 @@ This is an introduction to Python. It's not a 101 talk teaching you language syn
 The 'right', 'left' and 'down' arrows will let you navigate through the content at your own discretion. Too see all content, just use the 'spacebar' to move forward and 'Shift-spacebar' to move backwards.
 
 ## The content
-Check out the presentation [here](Citadel_presentation.slides.html)
+Check out the presentation [here](Citadel_Presentation.slides.html)
